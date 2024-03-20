@@ -1,0 +1,4 @@
+
+I2C uses an open-drain/open-collector with an input buffer on the same line, which allows a single data line to be used for bidirectional data flow.
+
+Setting the I2C pins to push-pull can cause damage to the devices on the bus. 
